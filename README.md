@@ -1,8 +1,8 @@
-# fonts-harmonyos-sans-cn
+# fonts-harmonyos-sans-sc
 鸿蒙黑体 deb 包， 目前更新到华为在 2022/07/04 发布的字体版本。
 
 ## 安装
-[最新的稳定版本](https://github.com/uniartisan/fonts-harmonyos-sans-cn/releases)
+[最新的稳定版本](https://github.com/uniartisan/fonts-harmonyos-sans-sc/releases)
 适配debian系列的系统，下载后使用 apt 安装即可。
 
 
